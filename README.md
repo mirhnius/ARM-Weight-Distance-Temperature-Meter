@@ -16,6 +16,6 @@ In this project, I implemented a multi-function system for Real-Time Monitoring 
 * ### Weight Sensing
 
  <p align="center">
-<img src="/Images/Weight.jpg" width="400" height="200" align="center">
+<img src="/Images/Weight.jpg" width="600" height="400" align="center">
 </p>
 
