@@ -14,7 +14,7 @@ In this project, I implemented a multi-function system for Real-Time Monitoring 
 </p>
 
 * ### Weight Sensing
-
+  The subsystems applys a load cell and AD623 (an integrated instrumentation amplifier that delivers rail-to-rail output swing using supply) interfacing with ADC.
  <p align="center">
 <img src="/Images/Weight.jpg" width="600" height="400" align="center">
 </p>
